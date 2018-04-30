@@ -1,0 +1,7 @@
+Arquivo de teste .
+
+Leitura de arquivo.
+
+Teste OK !
+
+SUCESSO !
