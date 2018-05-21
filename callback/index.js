@@ -1,5 +1,5 @@
   const callback = require('./callback')
 
-  callback('Edson', (churumin, num) => {
-      console.log(churumin + ' é ' + num)
+  callback('Edson', (text, num) => {
+      console.log(text + ' é ' + num)
   })
